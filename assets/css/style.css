@@ -50,20 +50,19 @@ a {
   
 #box{
     position: relative;
-    width: 100%;
-    margin: 0;
-    background-image: url("assets/images/beanstalk.png");
-    background-color: black;
+    padding-top:30px;
+    padding-bottom: 100%;
+    background-image: url("../images/beanstalk.png");
+    border-top: 2px solid #dddddd;
 }
 
 #content {
     position: relative;
-    width: 900px;
     padding: 30px;
-    border: 1px solid #dddddd ;
+    width: 900px;
     margin: 0 auto;
-    
     background-color: #ffffff;
+    border: 1px solid #dddddd;
 }
 
 #head {
@@ -80,6 +79,8 @@ a {
 }
 
 #foot {
+    position: fixed;
+    bottom: 0;
     text-align: center;
     background-color: #666666;
     width: 100%;
