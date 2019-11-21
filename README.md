@@ -42,4 +42,4 @@ This project is licensed under the MIT License
 
 * Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
 * Inspiration
-* etc
+* [W3 Schools](https://www.w3schools.com/)
