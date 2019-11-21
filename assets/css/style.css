@@ -15,12 +15,13 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: x-large;
     text-align: center;
+    padding-top: 2%;
 }
 
 #menu {
     position: absolute;
     right: 0;
-    top: 50%;    
+    top: 40%;    
 }
 
 #menu ul li {
