@@ -108,3 +108,27 @@ a {
     color: white;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
+
+.project {
+    float: left;
+    width: 25%;
+    height: 200px;
+    margin: 10px 15px 10px 0px;
+}
+.projectImg {
+    width: 100%;
+    height: 100%;
+    
+}
+
+.projectName {
+    position: relative;
+    background-color: #4aaaa5;
+    padding: 15px 0px;
+    color: white;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    top: 35%;
+    width: 100%;
+    text-align: center;
+
+}
