@@ -12,9 +12,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Code Snippets
 
-![Site](assets/images/beanstalk.png)
+![Site](assets/images/contentSnippet.png)
 
-![Site](assets/images/beanstalk.png)
+This code shows the nesting I chose to display the main content of the webpage. There is a &lt;div&gt; 'box' that takes care of the background. Inside there is a &lt;div&gt; 'content' that contains the main content of the webpage. This includes the header, image, and text. The &lt;p&gt; tags belong to the same class "paragraph" for easier styling.
+
+![Site](assets/images/headerStyling.png)
+
+This snippet shows the styling of the &lt;header&gt;. The header 'b1' was centered using margin: 0 auto. The 'name' and the 'menu' were position absolute in relation to the header.
 
 ## Built With
 
