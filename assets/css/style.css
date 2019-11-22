@@ -51,9 +51,10 @@ a {
 #box{
     position: relative;
     padding-top:30px;
-    padding-bottom: 100%;
+    padding-bottom: 60px;
     background-image: url("../images/beanstalk.png");
     border-top: 2px solid #dddddd;
+    min-height: calc(110vh - 280px);
 }
 
 #content {
@@ -81,8 +82,7 @@ a {
 }
 
 #foot {
-    position: fixed;
-    bottom: 0;
+    position: relative;
     text-align: center;
     background-color: #666666;
     width: 100%;

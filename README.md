@@ -42,3 +42,4 @@ This snippet shows the styling of the &lt;header&gt;. The header 'b1' was center
 ## Acknowledgments
 
 * [W3 Schools](https://www.w3schools.com/)
+* [CSS Tricks](https://css-tricks.com/couple-takes-sticky-footer/)
