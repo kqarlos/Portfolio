@@ -27,7 +27,7 @@ This snippet shows the styling of the &lt;header&gt;. The header 'b1' was center
 
 ## Deployed Link
 
-* [See Live Site](kqarlos.github.io/Portfolio)
+* [See Live Site](https://kqarlos.github.io/Portfolio/index.html)
 
 
 ## Authors
