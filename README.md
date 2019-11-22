@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Site Picture
 
-![Site](assets/images/beanstalk.png)
+![Site](assets/images/webScreenshot.png)
 
 ## Code Snippets
 
@@ -34,12 +34,7 @@ These instructions will get you a copy of the project up and running on your loc
 - [Link to Github](https://www.github.com/kqarlos)
 - [Link to LinkedIn](https://www.linkedin.com/in/carlos-toledo415/)
 
-## License
-
-This project is licensed under the MIT License 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
 * [W3 Schools](https://www.w3schools.com/)
