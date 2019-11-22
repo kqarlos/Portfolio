@@ -1,10 +1,10 @@
-# Protfolio
+# Portfolio
 
 This website contain professional information about me and show some of the projects that I have worked on.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This document contains information on the code writen for the Portfolio website. It has explained snippets of code for reference. It also includes a link to the live site and the repository on Github.
 
 ## Site Picture
 
@@ -34,7 +34,7 @@ This snippet shows the styling of the &lt;header&gt;. The header 'b1' was center
 
 * **Carlos Toledo** 
 
-- [Link to Portfolio Site](https://www.kqarlos.github.io/Portfolio)
+- [Link to Portfolio Site](https://github.com/kqarlos/Portfolio)
 - [Link to Github](https://www.github.com/kqarlos)
 - [Link to LinkedIn](https://www.linkedin.com/in/carlos-toledo415/)
 
